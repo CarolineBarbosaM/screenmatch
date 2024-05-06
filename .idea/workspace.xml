@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d49af18d-bdf0-491f-9082-85860e10aabe" name="Changes" comment="" />
+    <list default="true" id="d49af18d-bdf0-491f-9082-85860e10aabe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/principal/PrincipalListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculos/Classificavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculos/Classificavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculos/FiltroRecomendacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculos/FiltroRecomendacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/Episodio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/Titulo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CarolineBarbosaM"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CarolineBarbosaM/screenmatch.git",
+    "accountId": "5587f26a-1fcc-4bea-b9df-c5ea36cb6964"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -21,7 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Principal.executor": "Run",
+    "Application.PrincipalListas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/carol/IdeaProjects/screenmatch/src/Main.java"
@@ -38,15 +75,15 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

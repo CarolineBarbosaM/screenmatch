@@ -1,2 +1,6 @@
-package calculos;public class Classificavel {
+package calculos;
+
+public interface Classificavel {
+
+    int getClassificavel();
 }
