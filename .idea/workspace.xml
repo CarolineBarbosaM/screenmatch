@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d49af18d-bdf0-491f-9082-85860e10aabe" name="Changes" comment=":sparkles: trabalhando com ordenação">
-      <change afterPath="$PROJECT_DIR$/src/modelos/TituloOmdb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/principal/PrincipalComBusca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenmatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/screenmatch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelos/Titulo.java" afterDir="false" />
-    </list>
+    <list default="true" id="d49af18d-bdf0-491f-9082-85860e10aabe" name="Changes" comment=":sparkles: trabalhando com consumo de api" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714959151772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=":sparkles: trabalhando com consumo de api">
+      <option name="closed" value="true" />
+      <created>1715650562983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715650562983</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":sparkles: trabalhando com ordenação" />
-    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: trabalhando com ordenação" />
+    <MESSAGE value=":sparkles: trabalhando com consumo de api" />
+    <option name="LAST_COMMIT_MESSAGE" value=":sparkles: trabalhando com consumo de api" />
   </component>
 </project>
