@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d49af18d-bdf0-491f-9082-85860e10aabe" name="Changes" comment=":sparkles: trabalhando com consumo de api">
-      <change afterPath="$PROJECT_DIR$/src/modules/ConversorDeMoedas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/ExchangeRateResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/TaxaDeCambio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenmatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/conversordemoedas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculos/CalculadoraDeTempo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculos/Classificavel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculos/FiltroRecomendacao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelos/Episodio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelos/Filme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelos/Serie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelos/Titulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelos/TituloOmdb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conversor/Conversor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/principal/PrincipalComBusca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/principal/PrincipalListas.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d49af18d-bdf0-491f-9082-85860e10aabe" name="Changes" comment=":sparkles: trabalhando com consumo de api" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -62,7 +44,6 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.Conversor.executor&quot;: &quot;Run&quot;,
     &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrincipalComBusca.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrincipalListas.executor&quot;: &quot;Run&quot;,
@@ -70,12 +51,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/carol/IdeaProjects/conversordemoedas&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carol/Downloads/gson-2.10.1.jar&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/carol/IdeaProjects/screenmatch/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -103,15 +83,7 @@
       <option name="project" value="LOCAL" />
       <updated>1715650562983</updated>
     </task>
-    <task id="LOCAL-00003" summary=":sparkles: trabalhando com consumo de api">
-      <option name="closed" value="true" />
-      <created>1715650779960</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1715650779960</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
